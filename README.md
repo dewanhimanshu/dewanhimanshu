@@ -16,6 +16,8 @@
 ## 💻 Internships 
 - [SWE][Kvlabs](http://kvlabs.in/)
 - [TA][Coding Ninjas](https://www.codingninjas.com/)
+- [Web Developer+Tech Manager][Ghar PG](https://dewanhimanshu.github.io/GharPG/)
+-[Business Development Associate][Houseitt](https://houseitt.in/)
 
 ## 💻 Achievements
 - University Gold Medalist in Bsc(H) Computer Science (University of Delhi)
@@ -26,14 +28,18 @@
 ## 💻 Volunteer experience 
 - [Compus-Leed][Scaler Achiever Club](https://www.scaler.com/)
 - [Web-Developer][Hansraj College - CS Dept]
+- [GDG New Delhi](https://gdg.community.dev/gdg-new-delhi/)
+- [Youth With A Mission](https://ywam.org/)
+
+
 
 ## 💻 Projects
-- [Web Dev][Promethean Developers](https://prometheandevelopers.ml/)
 - [Task Manegment App][Workduler](https://workduler.com/)
 - [Gov Portal][Pension Portal](https://pension-portal.herokuapp.com/users/sign_in)
 - [Event Portal][Cynosure 2019](https://cynosurehrc.herokuapp.com/)
 - [Event Portal][Cynosure 2020](https://cynosure2020.github.io/)
-- []
+- [Web Dev][Promethean Developers](https://prometheandevelopers.ml/)
+
 
 
 ##  Fun fact:
