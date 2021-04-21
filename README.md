@@ -4,12 +4,26 @@
 
 ### I'm Himanshu Dewan Student at 👨‍💻 Department of Computer Science , University of Delhi Pursuing MCA. I am a tech  enthusiast and I am also full stack web developer 
 -------
+
   
 ## 🧐 About
 
 - 🔭 I’m currently working on Ruby on Rails
 - 🌱 I’m currently learning PWA
 - 👯 I’m looking to collaborate on Cross Platflorm App developments and PWAs
+
+  
+## 💻 Internships 
+- [SWE][Kvlabs](http://kvlabs.in/)
+- [TA][Coding Ninjas](https://www.codingninjas.com/)
+
+## 💻 Volunters 
+- [Compus-Leed][Scaler Achiever Club](https://www.scaler.com/)
+- [Web-Developer][Hansraj College - CS Dept]
+
+## 💻 Projects
+
+
 
 ##  Fun fact:
 - 🏄‍ Community guy who loves being involved in communities and help students grow
