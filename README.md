@@ -17,12 +17,23 @@
 - [SWE][Kvlabs](http://kvlabs.in/)
 - [TA][Coding Ninjas](https://www.codingninjas.com/)
 
-## 💻 Volunters 
+## 💻 Achievements
+- University Gold Medalist in Bsc(H) Computer Science (University of Delhi)
+- Top 50 Puzzle Solver in HACK MIT (International)
+- Smart India Hackathon 2018 finalist 
+
+
+## 💻 Volunteer experience 
 - [Compus-Leed][Scaler Achiever Club](https://www.scaler.com/)
 - [Web-Developer][Hansraj College - CS Dept]
 
 ## 💻 Projects
-
+- [Web Dev][Promethean Developers](https://prometheandevelopers.ml/)
+- [Task Manegment App][Workduler](https://workduler.com/)
+- [Gov Portal][Pension Portal](https://pension-portal.herokuapp.com/users/sign_in)
+- [Event Portal][Cynosure 2019](https://cynosurehrc.herokuapp.com/)
+- [Event Portal][Cynosure 2020](https://cynosure2020.github.io/)
+- []
 
 
 ##  Fun fact:
