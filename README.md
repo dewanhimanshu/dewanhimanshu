@@ -17,7 +17,7 @@
 - [SWE][Kvlabs](http://kvlabs.in/)
 - [TA][Coding Ninjas](https://www.codingninjas.com/)
 - [Web Developer+Tech Manager][Ghar PG](https://dewanhimanshu.github.io/GharPG/)
--[Business Development Associate][Houseitt](https://houseitt.in/)
+- [Business Development Associate][Houseitt](https://houseitt.in/)
 
 ## 💻 Achievements
 - University Gold Medalist in Bsc(H) Computer Science (University of Delhi)
