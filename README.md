@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on Ruby on Rails
 - 🌱 I’m currently learning PWA
-- 👯 I’m looking to collaborate on Cross Platflorm App developments and PWAs
+- 👯 I’m looking to collaborate on Cross Platflorm App developments and PWA
+- 🌱 I’m Goolge Developers Student Club Lead at my College.
 
   
 ## 💻 Internships 
