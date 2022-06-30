@@ -9,7 +9,7 @@
 ## 🧐 About
 
 - 🔭 I’m currently working on Ruby on Rails
-- 🌱 I’m currently learning PWA
+- 🌱 I’m currently learning PWA and Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on Cross Platflorm App developments and PWA
 - 🌱 I’m Goolge Developers Student Club Lead at my College.
 
@@ -18,10 +18,11 @@
 - [SWE][Kvlabs](http://kvlabs.in/)
 - [TA][Coding Ninjas](https://www.codingninjas.com/)
 - [Web Developer+Tech Manager][Ghar PG](https://dewanhimanshu.github.io/GharPG/)
-- [Business Development Associate][Houseitt](https://houseitt.in/)
+- [Business Development Associate][Houseitt](https://www.instagram.com/houseitt.in/?hl=en)
 
 ## 💻 Achievements
 - University Gold Medalist in Bsc(H) Computer Science (University of Delhi)
+- Research Paper on AJAX and WebSockets Performance
 - Top 50 Puzzle Solver in HACK MIT (International)
 - Smart India Hackathon 2018 finalist 
 
@@ -35,12 +36,11 @@
 
 
 ## 💻 Projects
-- [Task Manegment App][Workduler](https://workduler.com/)
+- [Tweet Scheduler for Twitter](https://github.com/dewanhimanshu/Buffer-Tweet-Scheduler)
+- [RealTime OpenBoard Clone Project](https://github.com/dewanhimanshu/sketch-board)
 - [Gov Portal][Pension Portal](https://pension-portal.herokuapp.com/users/sign_in)
 - [Event Portal][Cynosure 2019](https://cynosurehrc.herokuapp.com/)
 - [Event Portal][Cynosure 2020](https://cynosure2020.github.io/)
-- [Web Dev][Promethean Developers](https://prometheandevelopers.ml/)
-
 
 
 ##  Fun fact:
