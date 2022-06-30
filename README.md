@@ -4,13 +4,12 @@
 
 ### I'm Himanshu Dewan Student at 👨‍💻 Department of Computer Science , University of Delhi Pursuing MCA. I am a tech  enthusiast and I am also full stack web developer 
 -------
-
   
 ## 🧐 About
 
 - 🔭 I’m currently working on Ruby on Rails
 - 🌱 I’m currently learning PWA and Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on Cross Platflorm App developments and PWA
+- 👯 I’m looking to collaborate on Java and Data Structures and Algorithms
 - 🌱 I’m Goolge Developers Student Club Lead at my College.
 
   
@@ -34,13 +33,18 @@
 - [Youth With A Mission](https://ywam.org/)
 
 
-
 ## 💻 Projects
 - [Tweet Scheduler for Twitter](https://github.com/dewanhimanshu/Buffer-Tweet-Scheduler)
 - [RealTime OpenBoard Clone Project](https://github.com/dewanhimanshu/sketch-board)
 - [Gov Portal][Pension Portal](https://pension-portal.herokuapp.com/users/sign_in)
 - [Event Portal][Cynosure 2019](https://cynosurehrc.herokuapp.com/)
 - [Event Portal][Cynosure 2020](https://cynosure2020.github.io/)
+
+## 😄 Lets Connect / Profile Links
+- [Linkedin](https://www.linkedin.com/in/himanshu-dewan)
+- [Email] : himanshudewan.mca20.du@gmail.com
+- [Leetcode] : 
+
 
 
 ##  Fun fact:
