@@ -7,15 +7,16 @@
   
 ## 🧐 About
 
-- 🔭 I’m currently working on Ruby on Rails
+- 🔭 I’m currently working on Java and Spring Boot
 - 🌱 I’m currently learning PWA and Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on Java and Data Structures and Algorithms
 - 🌱 I’m Goolge Developers Student Club Lead at my College.
 
   
-## 💻 Internships 
-- [SWE][Kvlabs](http://kvlabs.in/)
-- [TA][Coding Ninjas](https://www.codingninjas.com/)
+## 💻 Experiences 
+- [SSE][Ambitionbox](https://www.ambitionbox.com)
+- [SWE][Kvlabs](http://kvlabs.in)
+- [TA][Coding Ninjas](https://www.codingninjas.com)
 - [Web Developer+Tech Manager][Ghar PG](https://dewanhimanshu.github.io/GharPG/)
 - [Business Development Associate][Houseitt](https://www.instagram.com/houseitt.in/?hl=en)
 
