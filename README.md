@@ -2,13 +2,13 @@
 
 ## Hi there 👋,
 
-### I'm Himanshu Dewan Student at 👨‍💻 Department of Computer Science , University of Delhi Pursuing MCA. I am a tech  enthusiast and I am also full stack web developer 
+### I'm Himanshu Dewan working as Senior Software Engineer at Ambitionbox, Infoedge. I did MCA from Department of Computer Science , University of Delhi 👨‍💻. I am a tech enthusiast and I am also full stack web developer.
 -------
   
 ## 🧐 About
 
 - 🔭 I’m currently working on Java and Spring Boot
-- 🌱 I’m currently learning PWA and Data Structures and Algorithms 
+- 🌱 I’m currently learning tp Scale distributed Systems and Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on Java and Data Structures and Algorithms
 - 🌱 I’m Goolge Developers Student Club Lead at my College.
 
@@ -21,7 +21,7 @@
 - [Business Development Associate][Houseitt](https://www.instagram.com/houseitt.in/?hl=en)
 
 ## 💻 Achievements
-- University Gold Medalist in Bsc(H) Computer Science (University of Delhi)
+- University Gold Medalist in MCA and Bsc(H) Computer Science (University of Delhi) 
 - Research Paper on AJAX and WebSockets Performance
 - Top 50 Puzzle Solver in HACK MIT (International)
 - Smart India Hackathon 2018 finalist 
@@ -35,6 +35,7 @@
 
 
 ## 💻 Projects
+- [Log Ingestor and Query Interface](https://github.com/dewanhimanshu/Log-Ingestor-and-Query-Interface)
 - [Tweet Scheduler for Twitter](https://github.com/dewanhimanshu/Buffer-Tweet-Scheduler)
 - [RealTime OpenBoard Clone Project](https://github.com/dewanhimanshu/sketch-board)
 - [Gov Portal][Pension Portal](https://pension-portal.herokuapp.com/users/sign_in)
@@ -56,7 +57,7 @@
 
 
 - 💬 Ask me about anything and everything!
-- 💬 Ping Me about #PWA, #RubyOnRails, #CommunityOps, #Java, #speaking_opportunity and anything you like
+- 💬 Ping Me about #SpringBoot, #Caching, #High Level Design, #Low Level Design, #PWA, #RubyOnRails, #CommunityOps, #Java, #speaking_opportunity and anything you like
 
 
 <!-- **dewanhimanshu/dewanhimanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile  -->
